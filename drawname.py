@@ -1,5 +1,3 @@
-# 坏枪版权所有。
-
 #初始启动。
 version = "坏枪点名器 3.5"
 import tkinter as tk
